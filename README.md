@@ -30,5 +30,4 @@ Analytics</li><li>
 Event management</li><li>
 Conversion points</li><li>
 Geo & device stats</li><li>
-Litmus (optional at additional cost)</li><li>
-Feeds (XML, HTML, RSS)</li><li>
+Feeds (XML, HTML, RSS)</li></ol>
