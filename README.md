@@ -19,16 +19,16 @@ Aktel News Letter management  is on agpl4 or later. This means that if you make 
 The primary developers of Aktel News Letter management  are aktel . They are also copyright and trademark owners of the Aktel News Letter managementcode and name. aktel  offers Aktel News Letter management  as a service through aktel.in , and use the proceeds to further develop and grow the Aktel News Letter management  software and community. Donations to Aktel News Letter management go to aktel
 
 
-
+<h2>Features</h2>
 <ol>
 <li>
 Email template designer</li><li>
 Campaign management</li><li>
 Segmentation</li><li>
 A/B Testing</li><li>
-Analytics</li></ol>
-Event management
-Conversion points
-Geo & device stats
-Litmus (optional at additional cost)
-Feeds (XML, HTML, RSS)
+Analytics</li><li>
+Event management</li><li>
+Conversion points</li><li>
+Geo & device stats</li><li>
+Litmus (optional at additional cost)</li><li>
+Feeds (XML, HTML, RSS)</li><li>
